@@ -1,0 +1,22 @@
+{
+  "subjects": [
+    {
+      "name": "Mathematics Part 1",
+      "icon": "📐",
+      "chapters": [
+        {
+          "title": "Linear Equations in Two Variables",
+          "pdf": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        { "title": "Quadratic Equations", "pdf": "" }
+      ]
+    },
+    {
+      "name": "Science and Technology",
+      "icon": "🔬",
+      "chapters": [
+        { "title": "Gravitation", "pdf": "" }
+      ]
+    }
+  ]
+}
