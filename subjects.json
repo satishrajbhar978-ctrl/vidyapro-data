@@ -10,7 +10,7 @@
       "subtitle": "Kumarbharati · Language & Literature",
       "icon": "📘",
       "color": "#1E88E5",
-      "pdf": "english.pdf"
+      "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/english.pdf"
     },
     {
       "id": "hindi",
@@ -18,7 +18,7 @@
       "subtitle": "Lokbharati · Language & Literature",
       "icon": "📙",
       "color": "#F4511E",
-      "pdf": "hindi.pdf"
+      "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hindi.pdf"
     },
     {
       "id": "marathi",
@@ -26,7 +26,7 @@
       "subtitle": "Kumarbharati · Language & Literature",
       "icon": "📕",
       "color": "#D81B60",
-      "pdf": "marathi.pdf"
+      "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/marathi.pdf"
     },
     {
       "id": "math1",
@@ -35,36 +35,12 @@
       "icon": "➗",
       "color": "#3949AB",
       "chapters": [
-        {
-          "no": 1,
-          "title": "Linear Equations in Two Variables",
-          "pdf": "math1-ch1.pdf"
-        },
-        {
-          "no": 2,
-          "title": "Quadratic Equations",
-          "pdf": "math1-ch2.pdf"
-        },
-        {
-          "no": 3,
-          "title": "Arithmetic Progression",
-          "pdf": "math1-ch3.pdf"
-        },
-        {
-          "no": 4,
-          "title": "Financial Planning",
-          "pdf": "math1-ch4.pdf"
-        },
-        {
-          "no": 5,
-          "title": "Probability",
-          "pdf": "math1-ch5.pdf"
-        },
-        {
-          "no": 6,
-          "title": "Statistics",
-          "pdf": "math1-ch6.pdf"
-        }
+        {"title": "Linear Equations in Two Variables", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch1.pdf"},
+        {"title": "Quadratic Equations", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch2.pdf"},
+        {"title": "Arithmetic Progression", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch3.pdf"},
+        {"title": "Financial Planning", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch4.pdf"},
+        {"title": "Probability", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch5.pdf"},
+        {"title": "Statistics", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch6.pdf"}
       ]
     },
     {
@@ -74,41 +50,13 @@
       "icon": "📐",
       "color": "#5E35B1",
       "chapters": [
-        {
-          "no": 1,
-          "title": "Similarity",
-          "pdf": "math2-ch1.pdf"
-        },
-        {
-          "no": 2,
-          "title": "Pythagoras Theorem",
-          "pdf": "math2-ch2.pdf"
-        },
-        {
-          "no": 3,
-          "title": "Circle",
-          "pdf": "math2-ch3.pdf"
-        },
-        {
-          "no": 4,
-          "title": "Geometric Constructions",
-          "pdf": "math2-ch4.pdf"
-        },
-        {
-          "no": 5,
-          "title": "Co-ordinate Geometry",
-          "pdf": "math2-ch5.pdf"
-        },
-        {
-          "no": 6,
-          "title": "Trigonometry",
-          "pdf": "math2-ch6.pdf"
-        },
-        {
-          "no": 7,
-          "title": "Mensuration",
-          "pdf": "math2-ch7.pdf"
-        }
+        {"title": "Similarity", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch1.pdf"},
+        {"title": "Pythagoras Theorem", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch2.pdf"},
+        {"title": "Circle", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch3.pdf"},
+        {"title": "Geometric Constructions", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch4.pdf"},
+        {"title": "Co-ordinate Geometry", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch5.pdf"},
+        {"title": "Trigonometry", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch6.pdf"},
+        {"title": "Mensuration", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math2-ch7.pdf"}
       ]
     },
     {
@@ -118,56 +66,16 @@
       "icon": "🔬",
       "color": "#00897B",
       "chapters": [
-        {
-          "no": 1,
-          "title": "Gravitation",
-          "pdf": "sci1-ch1.pdf"
-        },
-        {
-          "no": 2,
-          "title": "Periodic Classification of Elements",
-          "pdf": "sci1-ch2.pdf"
-        },
-        {
-          "no": 3,
-          "title": "Chemical Reactions and Equations",
-          "pdf": "sci1-ch3.pdf"
-        },
-        {
-          "no": 4,
-          "title": "Effects of Electric Current",
-          "pdf": "sci1-ch4.pdf"
-        },
-        {
-          "no": 5,
-          "title": "Heat",
-          "pdf": "sci1-ch5.pdf"
-        },
-        {
-          "no": 6,
-          "title": "Refraction of Light",
-          "pdf": "sci1-ch6.pdf"
-        },
-        {
-          "no": 7,
-          "title": "Lenses",
-          "pdf": "sci1-ch7.pdf"
-        },
-        {
-          "no": 8,
-          "title": "Metallurgy",
-          "pdf": "sci1-ch8.pdf"
-        },
-        {
-          "no": 9,
-          "title": "Carbon Compounds",
-          "pdf": "sci1-ch9.pdf"
-        },
-        {
-          "no": 10,
-          "title": "Space Missions",
-          "pdf": "sci1-ch10.pdf"
-        }
+        {"title": "Gravitation", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch1.pdf"},
+        {"title": "Periodic Classification of Elements", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch2.pdf"},
+        {"title": "Chemical Reactions and Equations", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch3.pdf"},
+        {"title": "Effects of Electric Current", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch4.pdf"},
+        {"title": "Heat", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch5.pdf"},
+        {"title": "Refraction of Light", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch6.pdf"},
+        {"title": "Lenses", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch7.pdf"},
+        {"title": "Metallurgy", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch8.pdf"},
+        {"title": "Carbon Compounds", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch9.pdf"},
+        {"title": "Space Missions", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci1-ch10.pdf"}
       ]
     },
     {
@@ -177,56 +85,16 @@
       "icon": "🧬",
       "color": "#43A047",
       "chapters": [
-        {
-          "no": 1,
-          "title": "Heredity and Evolution",
-          "pdf": "sci2-ch1.pdf"
-        },
-        {
-          "no": 2,
-          "title": "Life Processes (Part 1)",
-          "pdf": "sci2-ch2.pdf"
-        },
-        {
-          "no": 3,
-          "title": "Life Processes (Part 2)",
-          "pdf": "sci2-ch3.pdf"
-        },
-        {
-          "no": 4,
-          "title": "Environmental Management",
-          "pdf": "sci2-ch4.pdf"
-        },
-        {
-          "no": 5,
-          "title": "Towards Green Energy",
-          "pdf": "sci2-ch5.pdf"
-        },
-        {
-          "no": 6,
-          "title": "Animal Classification",
-          "pdf": "sci2-ch6.pdf"
-        },
-        {
-          "no": 7,
-          "title": "Introduction to Microbiology",
-          "pdf": "sci2-ch7.pdf"
-        },
-        {
-          "no": 8,
-          "title": "Cell Biology and Biotechnology",
-          "pdf": "sci2-ch8.pdf"
-        },
-        {
-          "no": 9,
-          "title": "Social Health",
-          "pdf": "sci2-ch9.pdf"
-        },
-        {
-          "no": 10,
-          "title": "Disaster Management",
-          "pdf": "sci2-ch10.pdf"
-        }
+        {"title": "Heredity and Evolution", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch1.pdf"},
+        {"title": "Life Processes (Part 1)", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch2.pdf"},
+        {"title": "Life Processes (Part 2)", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch3.pdf"},
+        {"title": "Environmental Management", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch4.pdf"},
+        {"title": "Towards Green Energy", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch5.pdf"},
+        {"title": "Animal Classification", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch6.pdf"},
+        {"title": "Introduction to Microbiology", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch7.pdf"},
+        {"title": "Cell Biology and Biotechnology", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch8.pdf"},
+        {"title": "Social Health", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch9.pdf"},
+        {"title": "Disaster Management", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/sci2-ch10.pdf"}
       ]
     },
     {
@@ -236,81 +104,21 @@
       "icon": "🏛️",
       "color": "#8D6E63",
       "chapters": [
-        {
-          "no": 1,
-          "title": "Historiography: Development in the West",
-          "pdf": "hist-ch1.pdf"
-        },
-        {
-          "no": 2,
-          "title": "Historiography: Indian Tradition",
-          "pdf": "hist-ch2.pdf"
-        },
-        {
-          "no": 3,
-          "title": "Applied History",
-          "pdf": "hist-ch3.pdf"
-        },
-        {
-          "no": 4,
-          "title": "History of Indian Arts",
-          "pdf": "hist-ch4.pdf"
-        },
-        {
-          "no": 5,
-          "title": "Mass Media and History",
-          "pdf": "hist-ch5.pdf"
-        },
-        {
-          "no": 6,
-          "title": "Entertainment and History",
-          "pdf": "hist-ch6.pdf"
-        },
-        {
-          "no": 7,
-          "title": "Sports and History",
-          "pdf": "hist-ch7.pdf"
-        },
-        {
-          "no": 8,
-          "title": "Tourism and History",
-          "pdf": "hist-ch8.pdf"
-        },
-        {
-          "no": 9,
-          "title": "Heritage Management",
-          "pdf": "hist-ch9.pdf"
-        },
-        {
-          "no": 10,
-          "title": "Working of the Constitution",
-          "pdf": "hist-ch10.pdf"
-        },
-        {
-          "no": 11,
-          "title": "The Electoral Process",
-          "pdf": "hist-ch11.pdf"
-        },
-        {
-          "no": 12,
-          "title": "Political Parties",
-          "pdf": "hist-ch12.pdf"
-        },
-        {
-          "no": 13,
-          "title": "Social and Political Movements",
-          "pdf": "hist-ch13.pdf"
-        },
-        {
-          "no": 14,
-          "title": "Unemployment",
-          "pdf": "hist-ch14.pdf"
-        },
-        {
-          "no": 15,
-          "title": "Poverty",
-          "pdf": "hist-ch15.pdf"
-        }
+        {"title": "Historiography: Development in the West", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch1.pdf"},
+        {"title": "Historiography: Indian Tradition", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch2.pdf"},
+        {"title": "Applied History", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch3.pdf"},
+        {"title": "History of Indian Arts", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch4.pdf"},
+        {"title": "Mass Media and History", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch5.pdf"},
+        {"title": "Entertainment and History", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch6.pdf"},
+        {"title": "Sports and History", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch7.pdf"},
+        {"title": "Tourism and History", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch8.pdf"},
+        {"title": "Heritage Management", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch9.pdf"},
+        {"title": "Working of the Constitution", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch10.pdf"},
+        {"title": "The Electoral Process", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch11.pdf"},
+        {"title": "Political Parties", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch12.pdf"},
+        {"title": "Social and Political Movements", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch13.pdf"},
+        {"title": "Unemployment", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch14.pdf"},
+        {"title": "Poverty", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/hist-ch15.pdf"}
       ]
     },
     {
@@ -320,52 +128,16 @@
       "icon": "🌍",
       "color": "#039BE5",
       "chapters": [
-        {
-          "no": 1,
-          "title": "Field Visit",
-          "pdf": "geo-ch1.pdf"
-        },
-        {
-          "no": 2,
-          "title": "Location and Extent",
-          "pdf": "geo-ch2.pdf"
-        },
-        {
-          "no": 3,
-          "title": "Physiography and Drainage",
-          "pdf": "geo-ch3.pdf"
-        },
-        {
-          "no": 4,
-          "title": "Climate",
-          "pdf": "geo-ch4.pdf"
-        },
-        {
-          "no": 5,
-          "title": "Natural Vegetation and Wildlife",
-          "pdf": "geo-ch5.pdf"
-        },
-        {
-          "no": 6,
-          "title": "Population",
-          "pdf": "geo-ch6.pdf"
-        },
-        {
-          "no": 7,
-          "title": "Human Settlements",
-          "pdf": "geo-ch7.pdf"
-        },
-        {
-          "no": 8,
-          "title": "Economy and Occupations",
-          "pdf": "geo-ch8.pdf"
-        },
-        {
-          "no": 9,
-          "title": "Tourism, Transport and Communication",
-          "pdf": "geo-ch9.pdf"
-        }
+        {"title": "Field Visit", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch1.pdf"},
+        {"title": "Location and Extent", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch2.pdf"},
+        {"title": "Physiography and Drainage", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch3.pdf"},
+        {"title": "Climate", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch4.pdf"},
+        {"title": "Natural Vegetation and Wildlife", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch5.pdf"},
+        {"title": "Population", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch6.pdf"},
+        {"title": "Human Settlements", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch7.pdf"},
+        {"title": "Economy and Occupations", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch8.pdf"},
+        {"title": "Tourism, Transport and Communication", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch9.pdf"}
       ]
     }
   ]
-    }
+        }
