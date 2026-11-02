@@ -1,22 +1,371 @@
 {
+  "app": "Vidya Pro",
+  "board": "Maharashtra SSC",
+  "class": 10,
+  "medium": "English",
   "subjects": [
     {
+      "id": "english",
+      "name": "English",
+      "subtitle": "Kumarbharati · Language & Literature",
+      "icon": "📘",
+      "color": "#1E88E5",
+      "pdf": "english.pdf"
+    },
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "subtitle": "Lokbharati · Language & Literature",
+      "icon": "📙",
+      "color": "#F4511E",
+      "pdf": "hindi.pdf"
+    },
+    {
+      "id": "marathi",
+      "name": "Marathi",
+      "subtitle": "Kumarbharati · Language & Literature",
+      "icon": "📕",
+      "color": "#D81B60",
+      "pdf": "marathi.pdf"
+    },
+    {
+      "id": "math1",
       "name": "Mathematics Part 1",
-      "icon": "📐",
+      "subtitle": "Algebra",
+      "icon": "➗",
+      "color": "#3949AB",
       "chapters": [
         {
+          "no": 1,
           "title": "Linear Equations in Two Variables",
-          "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch1.pdf"
+          "pdf": "math1-ch1.pdf"
         },
-        { "title": "Quadratic Equations", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/math1-ch2.pdf" }
+        {
+          "no": 2,
+          "title": "Quadratic Equations",
+          "pdf": "math1-ch2.pdf"
+        },
+        {
+          "no": 3,
+          "title": "Arithmetic Progression",
+          "pdf": "math1-ch3.pdf"
+        },
+        {
+          "no": 4,
+          "title": "Financial Planning",
+          "pdf": "math1-ch4.pdf"
+        },
+        {
+          "no": 5,
+          "title": "Probability",
+          "pdf": "math1-ch5.pdf"
+        },
+        {
+          "no": 6,
+          "title": "Statistics",
+          "pdf": "math1-ch6.pdf"
+        }
       ]
     },
     {
-      "name": "Science and Technology",
-      "icon": "🔬",
+      "id": "math2",
+      "name": "Mathematics Part 2",
+      "subtitle": "Geometry",
+      "icon": "📐",
+      "color": "#5E35B1",
       "chapters": [
-        { "title": "Gravitation", "pdf": "" }
+        {
+          "no": 1,
+          "title": "Similarity",
+          "pdf": "math2-ch1.pdf"
+        },
+        {
+          "no": 2,
+          "title": "Pythagoras Theorem",
+          "pdf": "math2-ch2.pdf"
+        },
+        {
+          "no": 3,
+          "title": "Circle",
+          "pdf": "math2-ch3.pdf"
+        },
+        {
+          "no": 4,
+          "title": "Geometric Constructions",
+          "pdf": "math2-ch4.pdf"
+        },
+        {
+          "no": 5,
+          "title": "Co-ordinate Geometry",
+          "pdf": "math2-ch5.pdf"
+        },
+        {
+          "no": 6,
+          "title": "Trigonometry",
+          "pdf": "math2-ch6.pdf"
+        },
+        {
+          "no": 7,
+          "title": "Mensuration",
+          "pdf": "math2-ch7.pdf"
+        }
+      ]
+    },
+    {
+      "id": "science1",
+      "name": "Science & Technology Part 1",
+      "subtitle": "Physics & Chemistry",
+      "icon": "🔬",
+      "color": "#00897B",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Gravitation",
+          "pdf": "sci1-ch1.pdf"
+        },
+        {
+          "no": 2,
+          "title": "Periodic Classification of Elements",
+          "pdf": "sci1-ch2.pdf"
+        },
+        {
+          "no": 3,
+          "title": "Chemical Reactions and Equations",
+          "pdf": "sci1-ch3.pdf"
+        },
+        {
+          "no": 4,
+          "title": "Effects of Electric Current",
+          "pdf": "sci1-ch4.pdf"
+        },
+        {
+          "no": 5,
+          "title": "Heat",
+          "pdf": "sci1-ch5.pdf"
+        },
+        {
+          "no": 6,
+          "title": "Refraction of Light",
+          "pdf": "sci1-ch6.pdf"
+        },
+        {
+          "no": 7,
+          "title": "Lenses",
+          "pdf": "sci1-ch7.pdf"
+        },
+        {
+          "no": 8,
+          "title": "Metallurgy",
+          "pdf": "sci1-ch8.pdf"
+        },
+        {
+          "no": 9,
+          "title": "Carbon Compounds",
+          "pdf": "sci1-ch9.pdf"
+        },
+        {
+          "no": 10,
+          "title": "Space Missions",
+          "pdf": "sci1-ch10.pdf"
+        }
+      ]
+    },
+    {
+      "id": "science2",
+      "name": "Science & Technology Part 2",
+      "subtitle": "Biology & Environment",
+      "icon": "🧬",
+      "color": "#43A047",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Heredity and Evolution",
+          "pdf": "sci2-ch1.pdf"
+        },
+        {
+          "no": 2,
+          "title": "Life Processes (Part 1)",
+          "pdf": "sci2-ch2.pdf"
+        },
+        {
+          "no": 3,
+          "title": "Life Processes (Part 2)",
+          "pdf": "sci2-ch3.pdf"
+        },
+        {
+          "no": 4,
+          "title": "Environmental Management",
+          "pdf": "sci2-ch4.pdf"
+        },
+        {
+          "no": 5,
+          "title": "Towards Green Energy",
+          "pdf": "sci2-ch5.pdf"
+        },
+        {
+          "no": 6,
+          "title": "Animal Classification",
+          "pdf": "sci2-ch6.pdf"
+        },
+        {
+          "no": 7,
+          "title": "Introduction to Microbiology",
+          "pdf": "sci2-ch7.pdf"
+        },
+        {
+          "no": 8,
+          "title": "Cell Biology and Biotechnology",
+          "pdf": "sci2-ch8.pdf"
+        },
+        {
+          "no": 9,
+          "title": "Social Health",
+          "pdf": "sci2-ch9.pdf"
+        },
+        {
+          "no": 10,
+          "title": "Disaster Management",
+          "pdf": "sci2-ch10.pdf"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History & Political Science",
+      "subtitle": "Social Sciences",
+      "icon": "🏛️",
+      "color": "#8D6E63",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Historiography: Development in the West",
+          "pdf": "hist-ch1.pdf"
+        },
+        {
+          "no": 2,
+          "title": "Historiography: Indian Tradition",
+          "pdf": "hist-ch2.pdf"
+        },
+        {
+          "no": 3,
+          "title": "Applied History",
+          "pdf": "hist-ch3.pdf"
+        },
+        {
+          "no": 4,
+          "title": "History of Indian Arts",
+          "pdf": "hist-ch4.pdf"
+        },
+        {
+          "no": 5,
+          "title": "Mass Media and History",
+          "pdf": "hist-ch5.pdf"
+        },
+        {
+          "no": 6,
+          "title": "Entertainment and History",
+          "pdf": "hist-ch6.pdf"
+        },
+        {
+          "no": 7,
+          "title": "Sports and History",
+          "pdf": "hist-ch7.pdf"
+        },
+        {
+          "no": 8,
+          "title": "Tourism and History",
+          "pdf": "hist-ch8.pdf"
+        },
+        {
+          "no": 9,
+          "title": "Heritage Management",
+          "pdf": "hist-ch9.pdf"
+        },
+        {
+          "no": 10,
+          "title": "Working of the Constitution",
+          "pdf": "hist-ch10.pdf"
+        },
+        {
+          "no": 11,
+          "title": "The Electoral Process",
+          "pdf": "hist-ch11.pdf"
+        },
+        {
+          "no": 12,
+          "title": "Political Parties",
+          "pdf": "hist-ch12.pdf"
+        },
+        {
+          "no": 13,
+          "title": "Social and Political Movements",
+          "pdf": "hist-ch13.pdf"
+        },
+        {
+          "no": 14,
+          "title": "Unemployment",
+          "pdf": "hist-ch14.pdf"
+        },
+        {
+          "no": 15,
+          "title": "Poverty",
+          "pdf": "hist-ch15.pdf"
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "subtitle": "Social Sciences",
+      "icon": "🌍",
+      "color": "#039BE5",
+      "chapters": [
+        {
+          "no": 1,
+          "title": "Field Visit",
+          "pdf": "geo-ch1.pdf"
+        },
+        {
+          "no": 2,
+          "title": "Location and Extent",
+          "pdf": "geo-ch2.pdf"
+        },
+        {
+          "no": 3,
+          "title": "Physiography and Drainage",
+          "pdf": "geo-ch3.pdf"
+        },
+        {
+          "no": 4,
+          "title": "Climate",
+          "pdf": "geo-ch4.pdf"
+        },
+        {
+          "no": 5,
+          "title": "Natural Vegetation and Wildlife",
+          "pdf": "geo-ch5.pdf"
+        },
+        {
+          "no": 6,
+          "title": "Population",
+          "pdf": "geo-ch6.pdf"
+        },
+        {
+          "no": 7,
+          "title": "Human Settlements",
+          "pdf": "geo-ch7.pdf"
+        },
+        {
+          "no": 8,
+          "title": "Economy and Occupations",
+          "pdf": "geo-ch8.pdf"
+        },
+        {
+          "no": 9,
+          "title": "Tourism, Transport and Communication",
+          "pdf": "geo-ch9.pdf"
+        }
       ]
     }
   ]
-}
+    }
