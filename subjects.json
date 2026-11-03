@@ -138,6 +138,18 @@
         {"title": "Economy and Occupations", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch8.pdf"},
         {"title": "Tourism, Transport and Communication", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/geo-ch9.pdf"}
       ]
-    }
+    },
+        {
+      "id": "selfdev",
+      "name": "Self Development",
+      "subtitle": "Books (Online reading only)",
+      "icon": "🌱",
+      "color": "#43A047",
+      "online": true,
+      "chapters": [
+        {"title": "Book 1 ka naam", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/selfdev-book1.pdf"},
+        {"title": "Book 2 ka naam", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/selfdev-book2.pdf"}
+      ]
+    },
   ]
         }
