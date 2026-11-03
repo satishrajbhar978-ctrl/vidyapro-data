@@ -147,8 +147,8 @@
       "color": "#43A047",
       "online": true,
       "chapters": [
-        {"title": "Atomic Habits", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/selfdev-book1.pdf"},
-        {"title": "Deep Work", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/selfdev-book2.pdf"}
+        {"title": "Atomic Habits", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/atomic-habits.pdf"},
+        {"title": "Deep Work", "pdf": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/deep-work.pdf"}
       ]
     }
   ]
