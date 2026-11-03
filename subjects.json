@@ -142,7 +142,7 @@
         {
       "id": "selfdev",
       "name": "Self Development",
-      "subtitle": "Books (Online reading only)",
+      "subtitle": "Books",
       "icon": "🌱",
       "color": "#43A047",
       "online": true,
