@@ -1,5 +1,6 @@
 {
   "items": [
-    {"id": 2, "title": "Welcome Yogesh", "message": "Thank you for downloading Vidya pro. Have a good experience with this app.", "date": "2026-11-05"}
+    {"id": 2, "title": "Welcome Yogesh", "message": "Thank you for downloading Vidya pro. Have a good experience with this app.", "date": "2026-11-05"},
+    {"id": 2, "title": "New Announcement","message": "We will upload all digest PDFs very soon.","date":"2026-11-5}
   ]
 }
