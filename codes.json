@@ -1,5 +1,5 @@
 {
-  "locked": ["math1", "math2", "science1", "science2", "history", "test"],
+  "locked": ["math1","science1", "science2", "history", "test"],
   "plans": [
     { "id": "m1", "name": "1 Month", "days": 30 },
     { "id": "m3", "name": "3 Months", "days": 90 },
