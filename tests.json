@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "tests": [
+    {
+      "subject": "math1",
+      "title": "Mathematics Part 1",
+      "questions": [
+        {
+          "q": "2x + 4 = 10 ho to x kitna hoga?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1
+        },
+        {
+          "q": "Linear equation ka graph kaisa hota hai?",
+          "options": ["Circle", "Parabola", "Straight line", "Curve"],
+          "answer": 2
+        },
+        {
+          "q": "AP: 2, 5, 8, 11 ka common difference kitna hai?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1
+        },
+        {
+          "q": "Sure event ki probability kitni hoti hai?",
+          "options": ["0", "1/2", "1", "2"],
+          "answer": 2
+        },
+        {
+          "q": "x² - 5x + 6 = 0 ke roots kya hain?",
+          "options": ["1 aur 6", "2 aur 3", "-2 aur -3", "5 aur 1"],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
