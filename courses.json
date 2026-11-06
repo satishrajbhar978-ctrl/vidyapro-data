@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "id": "course-excel",
+      "title": "Excel for Beginners",
+      "subtitle": "Learn Excel step by step",
+      "icon": "📊",
+      "color": "#43A047",
+      "videos": [
+        { "title": "Lesson 1: Introduction", "youtube": "dQw4w9WgXcQ" },
+        { "title": "Lesson 2: Formulas", "youtube": "dQw4w9WgXcQ" }
+      ]
+    },
+    {
+      "id": "course-english",
+      "title": "Spoken English",
+      "subtitle": "Speak with confidence",
+      "icon": "🗣️",
+      "color": "#1E88E5",
+      "videos": [
+        { "title": "Lesson 1: Greetings", "youtube": "dQw4w9WgXcQ" }
+      ]
+    }
+  ]
+}
