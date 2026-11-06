@@ -1,0 +1,13 @@
+{
+  "locked": ["math1", "math2", "science1", "science2", "history", "test"],
+  "plans": [
+    { "id": "m1", "name": "1 Month", "days": 30 },
+    { "id": "m3", "name": "3 Months", "days": 90 },
+    { "id": "y1", "name": "1 Year", "days": 365 }
+  ],
+  "codes": [
+    { "code": "VP-1111", "plan": "m1" },
+    { "code": "VP-2222", "plan": "m3" },
+    { "code": "VP-3333", "plan": "y1" }
+  ]
+}
