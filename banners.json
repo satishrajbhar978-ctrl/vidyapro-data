@@ -1,0 +1,22 @@
+{
+  "interval": 4,
+  "banners": [
+    {
+      "image": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/banner-excel.jpg",
+      "title": "Excel for Beginners",
+      "type": "course",
+      "course": "course-excel"
+    },
+    {
+      "image": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/banner-english.jpg",
+      "title": "Spoken English",
+      "type": "course",
+      "course": "course-english"
+    },
+    {
+      "image": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/diwali.jpg",
+      "title": "Happy Diwali 🪔",
+      "type": "festival"
+    }
+  ]
+}
