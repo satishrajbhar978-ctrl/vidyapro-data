@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "tests": [
     {
       "subject": "math1",
@@ -29,8 +29,10 @@
           "q": "x² - 5x + 6 = 0 ke roots kya hain?",
           "options": ["1 aur 6", "2 aur 3", "-2 aur -3", "5 aur 1"],
           "answer": 1
-        },
-        {
+        }
+      ]
+    },
+    {
       "subject": "vpsat",
       "title": "🏆 VPSAT Scholarship Test",
       "free": true,
@@ -62,8 +64,6 @@
         { "q": "Mental Ability: Which is the odd one out?", "options": ["Apple", "Mango", "Banana", "Potato"], "answer": 3 },
         { "q": "Mental Ability: Monday, Wednesday, Friday, ?", "options": ["Saturday", "Tuesday", "Thursday", "Sunday"], "answer": 3 },
         { "q": "Mental Ability: Ravi walks 3 km east, then 4 km north. How far is he from the start?", "options": ["5 km", "6 km", "7 km", "8 km"], "answer": 0 }
-      ]
-    }
       ]
     }
   ]
