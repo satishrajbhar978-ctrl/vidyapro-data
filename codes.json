@@ -1,5 +1,5 @@
 {
-  "locked": ["math1","science1", "science2", "history", "test","course-excel"],
+  "locked": ["math1","science1", "science2", "history","course-excel"],
   "plans": [
     { "id": "m1", "name": "1 Month", "days": 30 },
     { "id": "m3", "name": "3 Months", "days": 90 },
@@ -8,6 +8,8 @@
   "codes": [
     { "code": "VP-1111", "plan": "m1" },
     { "code": "VP-2222", "plan": "m3" },
-    { "code": "VP-3333", "plan": "y1" }
+    { "code": "VP-3333", "plan": "y1" },
+    { "code": "VP-SCH1Y", "plan": "y1" },
+    { "code": "VP-SCH3M", "plan": "m3" }
   ]
 }
