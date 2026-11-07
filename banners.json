@@ -1,5 +1,6 @@
 {
   "interval": 4,
+  "ratio": 0.4375,
   "banners": [
     {
       "image": "https://satishrajbhar978-ctrl.github.io/vidyapro-data/banner-excel.png",
