@@ -36,6 +36,7 @@
       "subject": "vpsat",
       "title": "🏆 VPSAT Scholarship Test",
       "free": true,
+      "once": true,
       "rewards": [
         { "min": 80, "plan": "y1", "code": "VP-SCH1Y", "label": "1 Year Premium" },
         { "min": 50, "plan": "m3", "code": "VP-SCH3M", "label": "3 Months Premium" }
