@@ -29,7 +29,41 @@
           "q": "x² - 5x + 6 = 0 ke roots kya hain?",
           "options": ["1 aur 6", "2 aur 3", "-2 aur -3", "5 aur 1"],
           "answer": 1
-        }
+        },
+        {
+      "subject": "vpsat",
+      "title": "🏆 VPSAT Scholarship Test",
+      "free": true,
+      "rewards": [
+        { "min": 80, "plan": "y1", "code": "VP-SCH1Y", "label": "1 Year Premium" },
+        { "min": 50, "plan": "m3", "code": "VP-SCH3M", "label": "3 Months Premium" }
+      ],
+      "questions": [
+        { "q": "Math 1: Solve 3x + 5 = 20. What is x?", "options": ["3", "4", "5", "6"], "answer": 2 },
+        { "q": "Math 1: What are the roots of x² − 7x + 12 = 0?", "options": ["2 and 5", "3 and 4", "-3 and -4", "1 and 12"], "answer": 1 },
+        { "q": "Math 1: In the AP 5, 9, 13, 17, ... what is the 10th term?", "options": ["37", "39", "41", "45"], "answer": 2 },
+        { "q": "Math 1: What is the probability of getting a head when a coin is tossed once?", "options": ["1/4", "1", "0", "1/2"], "answer": 3 },
+        { "q": "Math 1: What is the mean of 2, 4, 6, 8, 10?", "options": ["6", "5", "7", "8"], "answer": 0 },
+
+        { "q": "Science 1: What is the SI unit of force?", "options": ["Joule", "Newton", "Watt", "Pascal"], "answer": 1 },
+        { "q": "Science 1: What is the approximate value of g on Earth?", "options": ["6.67 m/s²", "98 m/s²", "9.8 m/s²", "0.98 m/s²"], "answer": 2 },
+        { "q": "Science 1: Which lens is used to correct myopia?", "options": ["Concave lens", "Convex lens", "Bifocal lens", "Plane mirror"], "answer": 0 },
+        { "q": "Science 1: What is the atomic number of carbon?", "options": ["4", "8", "12", "6"], "answer": 3 },
+        { "q": "Science 1: Which gas is released when zinc reacts with dilute HCl?", "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Nitrogen"], "answer": 0 },
+
+        { "q": "Science 2: Which organelle is called the powerhouse of the cell?", "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi body"], "answer": 2 },
+        { "q": "Science 2: Who is known as the father of genetics?", "options": ["Mendel", "Darwin", "Lamarck", "Pasteur"], "answer": 0 },
+        { "q": "Science 2: Which pigment gives leaves their green colour?", "options": ["Haemoglobin", "Melanin", "Carotene", "Chlorophyll"], "answer": 3 },
+        { "q": "Science 2: Which blood cells fight infection?", "options": ["RBC", "WBC", "Platelets", "Plasma"], "answer": 1 },
+        { "q": "Science 2: Which of these is a renewable energy source?", "options": ["Coal", "Petrol", "Solar energy", "Natural gas"], "answer": 2 },
+
+        { "q": "Mental Ability: What comes next? 2, 4, 8, 16, ?", "options": ["24", "30", "32", "36"], "answer": 2 },
+        { "q": "Mental Ability: If A=1, B=2, C=3 and so on, what is D + E?", "options": ["7", "9", "8", "10"], "answer": 1 },
+        { "q": "Mental Ability: Which is the odd one out?", "options": ["Apple", "Mango", "Banana", "Potato"], "answer": 3 },
+        { "q": "Mental Ability: Monday, Wednesday, Friday, ?", "options": ["Saturday", "Tuesday", "Thursday", "Sunday"], "answer": 3 },
+        { "q": "Mental Ability: Ravi walks 3 km east, then 4 km north. How far is he from the start?", "options": ["5 km", "6 km", "7 km", "8 km"], "answer": 0 }
+      ]
+    }
       ]
     }
   ]
